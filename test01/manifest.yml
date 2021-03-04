@@ -15,8 +15,8 @@
 #
 ---
 applications:
-- name: bluemix-todo-php
-  host: bluemix-todo-php
+- name: lhs80103010
+  host: lhs80103010
   memory: 64M
   instances: 1
   path: .
